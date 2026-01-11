@@ -142,6 +142,14 @@
         </pluginManagement>
     </build>
 
+    <distributionManagement>
+        <repository>
+            <id>central</id>
+            <url>https://central.sonatype.com/service/local/staging/deploy/maven2</url>
+        </repository>
+    </distributionManagement>
+
+
     <!-- Release profile (used only when publishing) -->
     <profiles>
         <profile>
