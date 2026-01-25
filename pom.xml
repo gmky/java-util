@@ -6,7 +6,7 @@
 
     <groupId>dev.gmky</groupId>
     <artifactId>utils-parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.4</version>
     <packaging>pom</packaging>
 
     <name>Group of common utility</name>
